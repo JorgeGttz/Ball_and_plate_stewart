@@ -21,9 +21,10 @@ You can see the model and the boards in grabcad (README).
 -Install python 3.6
 
 Run script automation:
-  -config_raspberry.py
+    -config_raspberry.py
+  
 
-You can install the config if you install independently:
+You can install the config if you install manually:
 -update python 3.6
 -pip3
 -opencv 3.4.2 (is needly to use this vesion)
