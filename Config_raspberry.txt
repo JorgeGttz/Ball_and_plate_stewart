@@ -1,0 +1,19 @@
+Configuracion to raspberry pi abd program that you need install:
+
+
+*Software*
+Install the most actually version of Raspbian in your raspberry and update the OS. In cmd use "sudo apt update", "sudo apt dist-upgrade", "sudo apt clean", "sudo reboot". Make sure you are connected to an internet network.
+
+By reasons of processing speed we´ll need a Raspberry Pi model 4b, and we´ll need overclocking it. 1.5Ghz in stock to aprox 1.8Ghz depends of your silicon.
+You can see how do the overclocking (https://www.seeedstudio.com/blog/2020/02/12/how-to-safely-overclock-your-raspberry-pi-4-to-2-147ghz/). 
+
+You should take into account your precautions about the temperature of the raspberry. Use "vcgencmd measure_temp" command in the terminal to see the temparature.
+
+You must run config_peripherals for use the camera, bus I2C, display, module servos, module adc. 
+
+*Hardware*
+
+Actually, it is not necessary to connect the display or the adc module, since these only help communication with the user, so everything can be done from the script if it is modified. But it was decided to put it to be checking its status, to be able to use it without the need to have a computer installed, check the status of the battery, among other advantages.
+
+The connections were put and installed at our convenience but it is not essential.
+You can see the model and the boards in grabcad (README).
