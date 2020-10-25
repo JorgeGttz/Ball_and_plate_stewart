@@ -25,11 +25,11 @@ Run script automation:
   
 
 You can install the config if you install manually:
--update python 3.6
--pip3
--opencv 3.4.2 (is needly to use this vesion)
--VIM
--VNC
--numpy
--build-essential
+    -update python 3.6
+    -pip3
+    -opencv 3.4.2 (is needly to use this vesion)
+    -VIM
+    -VNC
+    -numpy
+    -build-essential
 
