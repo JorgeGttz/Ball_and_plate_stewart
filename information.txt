@@ -1,0 +1,9 @@
+1.- Checar el codigo de visualizacion de la camara, acceder desde su branch, crear un archivo y escribir el codigo.
+2.- Buscar como abrir una imagen utilizando opencv2, y crear el archivo de ejemplo (Cada quien lo debe de subir a su branch).
+3.- Favor de mostrar avances
+4.- Pagina de informacion sobre todos los objetos de raspberry, especificamente del servomotor:
+        https://gpiozero.readthedocs.io/en/stable/api_output.html#servo
+
+
+
+https://www.life2coding.com/install-opencv-3-4-0-python-3-raspberry-pi-3/
