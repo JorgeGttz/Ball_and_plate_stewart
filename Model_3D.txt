@@ -1,0 +1,11 @@
+#############################
+We can fin the model 3D of the project in grabCAD
+
+Please go to link:
+
+https://grabcad.com/library/ball-and-plate-stewart-plataform-6dof-1
+
+-I recommend print the pices in PLA filament in a 3D printer. 
+-Some materials and components you can fin in the web.
+
+#############################
