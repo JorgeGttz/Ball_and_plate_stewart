@@ -7,4 +7,6 @@ The platform stewart-gough is a parallel robot in witch we can move it of simult
 
 The content of this repository is the property of the author and all rights are reserved, it is forbidden to copy any content. @ Copyright All Rights Reserved.
 
+Go to master branch to get files and content.
+
 #########################################################################################################################
